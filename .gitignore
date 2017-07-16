@@ -1,0 +1,7 @@
+/.vs/ThermoVision/v14/*.suo
+/Debug
+/*.old
+/*.db
+/CodeDB/ThermoVision-Debug-Win32
+/*.suo
+/VisualGDBCache/ThermoVision-Debug

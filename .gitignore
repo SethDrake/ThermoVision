@@ -1,11 +1,2 @@
-/.vs/ThermoVision/v14/*.suo
-/Debug
-/*.old
-/*.db
-/CodeDB/ThermoVision-Debug-Win32
-/*.suo
-/VisualGDBCache/ThermoVision-Debug
-/ThVisualizer/ThVisualizer.sln.ide
-/ThVisualizer/bin/Debug
-/ThVisualizer/*.suo
-/ThVisualizer/obj/Debug
+/packages
+/.vs
